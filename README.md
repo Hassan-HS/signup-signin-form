@@ -1,3 +1,3 @@
-Responsive Login and Registration Form created using Bootstrap, HTML and CSS only
+Responsive Login and Registration Form created using HTML, CSS and Bootstrap only
 
-Live demo: https://rajuahmedwebdev.github.io/signup-signin-form
+Live demo: https://rajuahmedwebdev.github.io/signup-signin-form/
